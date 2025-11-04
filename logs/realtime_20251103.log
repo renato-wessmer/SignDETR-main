@@ -1,0 +1,1832 @@
+2025-11-03 03:37:27,852 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 03:37:28,159 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 03:38:11,722 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 03:40:59,994 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 03:41:00,311 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 03:41:27,570 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 03:44:45,825 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 03:44:46,486 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 03:45:15,543 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 03:50:22,545 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 03:50:23,193 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 03:51:10,530 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 03:52:34,260 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 03:52:34,921 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 03:55:20,078 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 04:17:16,252 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 04:17:16,905 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 04:18:12,446 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 04:26:55,626 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 04:26:56,346 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 04:26:56,347 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 13:43:10,838 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 13:43:11,134 - realtime - ERROR - [error]❌ Failed to load model: [Errno 2] No such file or directory: 'checkpoints/193_model.pt'[/error]
+2025-11-03 13:44:15,494 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 13:44:15,880 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 13:44:16,171 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 13:44:16,173 - realtime - INFO - [info]Classes: ['Homem', 'Ver', 'Roubar'][/info]
+2025-11-03 13:44:16,173 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 13:44:16,311 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 13:44:16,313 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 13:44:17,314 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,326 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,336 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,345 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,430 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,529 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,629 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,724 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,824 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:17,920 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,020 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,120 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,216 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,316 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,417 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,513 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,613 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,708 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,808 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:18,908 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,004 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,105 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,201 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,300 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,400 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,496 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,596 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,696 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,792 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,892 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:19,988 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,088 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,188 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,284 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,384 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,480 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,580 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,681 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,777 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,877 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:20,977 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,073 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,172 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,268 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,368 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,468 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,564 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,664 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,760 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,860 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:21,961 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,056 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,156 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,256 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,352 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,452 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,548 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,648 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,748 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,844 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:22,945 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,040 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,140 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,240 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,337 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,436 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,536 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,632 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,733 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,828 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:23,928 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,028 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,124 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,224 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,320 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,421 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,520 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,616 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,716 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,817 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:24,912 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,012 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,108 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,208 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,309 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,405 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,504 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,600 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,700 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,801 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,896 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:25,997 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,097 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,193 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,292 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,388 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,488 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,588 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,684 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,784 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,880 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:26,980 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,081 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,177 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,277 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,377 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,472 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,573 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,668 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,768 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,868 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:27,964 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:28,064 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:28,160 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:28,260 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:28,360 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:28,456 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:44:28,556 - realtime - ERROR - [error]Inference error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu![/error]
+2025-11-03 13:46:16,279 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 13:46:16,666 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 13:46:16,957 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 13:46:16,959 - realtime - INFO - [info]Classes: ['Homem', 'Ver', 'Roubar'][/info]
+2025-11-03 13:46:16,959 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 13:46:17,092 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 13:46:17,093 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 13:46:20,676 - realtime - INFO - [info]📊 Frame 30 | Detections: 1 | FPS: 8.4[/info]
+2025-11-03 13:46:23,628 - realtime - INFO - [info]📊 Frame 60 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:46:26,585 - realtime - INFO - [info]📊 Frame 90 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:46:29,536 - realtime - INFO - [info]📊 Frame 120 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:46:32,492 - realtime - INFO - [info]📊 Frame 150 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:46:35,444 - realtime - INFO - [info]📊 Frame 180 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:46:38,396 - realtime - INFO - [info]📊 Frame 210 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:46:41,350 - realtime - INFO - [info]📊 Frame 240 | Detections: 0 | FPS: 10.2[/info]
+2025-11-03 13:46:44,304 - realtime - INFO - [info]📊 Frame 270 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:46:47,260 - realtime - INFO - [info]📊 Frame 300 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:46:50,212 - realtime - INFO - [info]📊 Frame 330 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:46:53,167 - realtime - INFO - [info]📊 Frame 360 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:46:56,118 - realtime - INFO - [info]📊 Frame 390 | Detections: 0 | FPS: 10.2[/info]
+2025-11-03 13:46:59,076 - realtime - INFO - [info]📊 Frame 420 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:02,028 - realtime - INFO - [info]📊 Frame 450 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:04,981 - realtime - INFO - [info]📊 Frame 480 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:07,935 - realtime - INFO - [info]📊 Frame 510 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:10,887 - realtime - INFO - [info]📊 Frame 540 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:13,844 - realtime - INFO - [info]📊 Frame 570 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:47:16,796 - realtime - INFO - [info]📊 Frame 600 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:47:19,752 - realtime - INFO - [info]📊 Frame 630 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:22,703 - realtime - INFO - [info]📊 Frame 660 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:25,660 - realtime - INFO - [info]📊 Frame 690 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:47:28,611 - realtime - INFO - [info]📊 Frame 720 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 13:47:31,563 - realtime - INFO - [info]📊 Frame 750 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:34,518 - realtime - INFO - [info]📊 Frame 780 | Detections: 0 | FPS: 10.2[/info]
+2025-11-03 13:47:37,471 - realtime - INFO - [info]📊 Frame 810 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 13:47:38,950 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 13:47:38,976 - realtime - INFO - [success]✅ Real-time detection stopped[/success]
+2025-11-03 14:12:15,307 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 14:12:15,697 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 14:12:15,990 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 14:12:15,991 - realtime - INFO - [info]Classes: Something went wrong loading your config file: Expecting value: line 4 column 24 (char 80)[/info]
+2025-11-03 14:12:15,992 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 14:12:16,127 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 14:12:16,128 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 14:12:17,293 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,305 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,319 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,331 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,343 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,446 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,541 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:17,641 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:18,134 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:18,921 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:19,312 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:19,412 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:19,609 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:19,804 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:20,888 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:21,284 - realtime - INFO - [info]📊 Frame 30 | Detections: 0 | FPS: 5.8[/info]
+2025-11-03 14:12:21,677 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:21,777 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:23,549 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:23,644 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:23,745 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:23,845 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:23,940 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:24,040 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:24,137 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:24,236 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:24,336 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:24,432 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:24,532 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,220 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,320 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,416 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,516 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,616 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,713 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,812 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:25,909 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,008 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,108 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,204 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,304 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,404 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,500 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,600 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,696 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,796 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,897 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:26,992 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,092 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,188 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,288 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,388 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,484 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,584 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,680 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,780 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,880 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:27,976 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,076 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,177 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,272 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,372 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,468 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,568 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,668 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:28,764 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:29,160 - realtime - INFO - [info]📊 Frame 60 | Detections: 0 | FPS: 3.8[/info]
+2025-11-03 14:12:29,849 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:29,948 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,044 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,144 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,240 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,340 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,440 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,536 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,636 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,736 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,832 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:30,933 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,029 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,128 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,228 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,324 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,424 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,520 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,620 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,720 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,816 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:31,916 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:32,016 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:32,112 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:32,212 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:32,308 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:32,408 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:32,508 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:33,096 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:33,392 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:33,492 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:33,588 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:33,984 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:34,081 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:34,180 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:34,281 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:34,376 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:34,576 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:34,968 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:35,068 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:35,360 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:35,460 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:35,656 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:35,856 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:36,247 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:36,347 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:36,641 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:36,739 - realtime - INFO - [info]📊 Frame 90 | Detections: 0 | FPS: 4.0[/info]
+2025-11-03 14:12:36,841 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:36,936 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,036 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,136 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,231 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,331 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,428 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,528 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,628 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,824 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:37,919 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,216 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,315 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,416 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,512 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,612 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,708 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,808 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:38,907 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,004 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,104 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,199 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,300 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,400 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,792 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:39,988 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,088 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,188 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,284 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,383 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,480 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,581 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,680 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,776 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,876 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:40,976 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,072 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,171 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,267 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,368 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,468 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,564 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,664 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,760 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,859 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:41,961 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,056 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,155 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,255 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,351 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,451 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,547 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,647 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,747 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,844 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:42,944 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,040 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,140 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,240 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,335 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,436 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,531 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,631 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,731 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,828 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:43,928 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,028 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,123 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,224 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,319 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,419 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,520 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,615 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,715 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,811 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:44,911 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,012 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,108 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,207 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,308 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,403 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,504 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,599 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,699 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,799 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,896 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:45,995 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,092 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,191 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,291 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,387 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,487 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,588 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,683 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,783 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,879 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:46,979 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:47,079 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:47,175 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:47,276 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:47,371 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:47,471 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:12:47,573 - realtime - ERROR - [error]Inference error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'rectangle'
+> Overload resolution failed:
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+>  - Scalar value for argument 'color' is not numeric
+>  - Can't parse 'rec'. Expected sequence length 4, got 2
+[/error]
+2025-11-03 14:14:54,426 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 14:14:54,809 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 14:14:55,099 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 14:14:55,100 - realtime - INFO - [info]Classes: Something went wrong loading your config file: Expecting value: line 4 column 24 (char 80)[/info]
+2025-11-03 14:14:55,101 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 14:14:55,235 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 14:14:55,236 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 14:14:58,817 - realtime - INFO - [info]📊 Frame 30 | Detections: 1 | FPS: 8.4[/info]
+2025-11-03 14:15:01,769 - realtime - INFO - [info]📊 Frame 60 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 14:15:04,726 - realtime - INFO - [info]📊 Frame 90 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 14:15:07,678 - realtime - INFO - [info]📊 Frame 120 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 14:15:10,634 - realtime - INFO - [info]📊 Frame 150 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 14:15:13,584 - realtime - INFO - [info]📊 Frame 180 | Detections: 0 | FPS: 10.2[/info]
+2025-11-03 14:15:16,541 - realtime - INFO - [info]📊 Frame 210 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 14:15:19,493 - realtime - INFO - [info]📊 Frame 240 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 14:15:22,445 - realtime - INFO - [info]📊 Frame 270 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 14:15:23,232 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 14:15:23,266 - realtime - INFO - [success]✅ Real-time detection stopped[/success]
+2025-11-03 14:16:55,537 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 14:16:55,928 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 14:16:56,226 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 14:16:56,227 - realtime - INFO - [info]Classes: ['Homem', 'Roubar', 'Ver'][/info]
+2025-11-03 14:16:56,228 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 14:16:56,362 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 14:16:56,364 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 14:16:59,944 - realtime - INFO - [info]📊 Frame 30 | Detections: 1 | FPS: 8.4[/info]
+2025-11-03 14:17:02,897 - realtime - INFO - [info]📊 Frame 60 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 14:17:04,472 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 14:17:04,509 - realtime - INFO - [success]✅ Real-time detection stopped[/success]
+2025-11-03 21:43:30,795 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 21:43:31,278 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 21:43:31,628 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 21:43:31,629 - realtime - INFO - [info]Classes: ['Homem', 'Roubar', 'Ver'][/info]
+2025-11-03 21:43:31,630 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 21:43:31,765 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 21:43:31,766 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 21:43:35,445 - realtime - INFO - [info]📊 Frame 30 | Detections: 1 | FPS: 8.2[/info]
+2025-11-03 21:43:38,402 - realtime - INFO - [info]📊 Frame 60 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 21:43:41,355 - realtime - INFO - [info]📊 Frame 90 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:43:44,310 - realtime - INFO - [info]📊 Frame 120 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:43:47,262 - realtime - INFO - [info]📊 Frame 150 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:43:50,214 - realtime - INFO - [info]📊 Frame 180 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:43:53,170 - realtime - INFO - [info]📊 Frame 210 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:43:56,122 - realtime - INFO - [info]📊 Frame 240 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:43:59,080 - realtime - INFO - [info]📊 Frame 270 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:44:02,029 - realtime - INFO - [info]📊 Frame 300 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 21:44:04,986 - realtime - INFO - [info]📊 Frame 330 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:44:07,937 - realtime - INFO - [info]📊 Frame 360 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 21:44:09,809 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 21:44:09,837 - realtime - INFO - [success]✅ Real-time detection stopped[/success]
+2025-11-03 21:44:39,102 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 21:44:39,487 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 21:44:39,770 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 21:44:39,771 - realtime - INFO - [info]Classes: ['Homem', 'Roubar', 'Ver'][/info]
+2025-11-03 21:44:39,772 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 21:44:39,905 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 21:44:39,906 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 21:44:43,489 - realtime - INFO - [info]📊 Frame 30 | Detections: 2 | FPS: 8.4[/info]
+2025-11-03 21:44:46,440 - realtime - INFO - [info]📊 Frame 60 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 21:44:49,395 - realtime - INFO - [info]📊 Frame 90 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 21:44:52,348 - realtime - INFO - [info]📊 Frame 120 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 21:44:55,305 - realtime - INFO - [info]📊 Frame 150 | Detections: 3 | FPS: 10.2[/info]
+2025-11-03 21:44:58,257 - realtime - INFO - [info]📊 Frame 180 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 21:45:01,214 - realtime - INFO - [info]📊 Frame 210 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 21:45:04,164 - realtime - INFO - [info]📊 Frame 240 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 21:45:04,952 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 21:45:04,990 - realtime - INFO - [success]✅ Real-time detection stopped[/success]
+2025-11-03 22:58:06,159 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 22:58:06,542 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 22:58:06,830 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 22:58:06,831 - realtime - INFO - [info]Classes: ['Homem', 'Roubar', 'Ver'][/info]
+2025-11-03 22:58:06,832 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 22:58:06,966 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 22:58:06,967 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 22:58:10,548 - realtime - INFO - [info]📊 Frame 30 | Detections: 1 | FPS: 8.4[/info]
+2025-11-03 22:58:13,501 - realtime - INFO - [info]📊 Frame 60 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 22:58:16,456 - realtime - INFO - [info]📊 Frame 90 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 22:58:19,408 - realtime - INFO - [info]📊 Frame 120 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:22,364 - realtime - INFO - [info]📊 Frame 150 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:25,315 - realtime - INFO - [info]📊 Frame 180 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:28,268 - realtime - INFO - [info]📊 Frame 210 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 22:58:31,224 - realtime - INFO - [info]📊 Frame 240 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:34,175 - realtime - INFO - [info]📊 Frame 270 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:37,132 - realtime - INFO - [info]📊 Frame 300 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:40,082 - realtime - INFO - [info]📊 Frame 330 | Detections: 0 | FPS: 10.2[/info]
+2025-11-03 22:58:43,039 - realtime - INFO - [info]📊 Frame 360 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:45,992 - realtime - INFO - [info]📊 Frame 390 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:48,947 - realtime - INFO - [info]📊 Frame 420 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:51,899 - realtime - INFO - [info]📊 Frame 450 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:54,856 - realtime - INFO - [info]📊 Frame 480 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:58:57,808 - realtime - INFO - [info]📊 Frame 510 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:59:00,759 - realtime - INFO - [info]📊 Frame 540 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:59:03,715 - realtime - INFO - [info]📊 Frame 570 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:59:06,667 - realtime - INFO - [info]📊 Frame 600 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 22:59:08,539 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 22:59:08,564 - realtime - INFO - [success]✅ Real-time detection stopped[/success]
+2025-11-03 23:38:29,506 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-03 23:38:29,888 - realtime - INFO - [success]✅ ✅ Model loaded successfully[/success]
+2025-11-03 23:38:30,196 - realtime - INFO - [realtime]📹 Using device: cuda[/realtime]
+2025-11-03 23:38:30,197 - realtime - INFO - [info]Classes: ['Homem', 'Roubar', 'Ver'][/info]
+2025-11-03 23:38:30,198 - realtime - INFO - [realtime]📹 Starting camera capture...[/realtime]
+2025-11-03 23:38:30,332 - realtime - INFO - [info]Camera resolution: 1280x720[/info]
+2025-11-03 23:38:30,333 - realtime - INFO - [realtime]📹 🎯 Starting detection loop... Press Q to quit[/realtime]
+2025-11-03 23:38:33,914 - realtime - INFO - [info]📊 Frame 30 | Detections: 1 | FPS: 8.4[/info]
+2025-11-03 23:38:36,865 - realtime - INFO - [info]📊 Frame 60 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:39,822 - realtime - INFO - [info]📊 Frame 90 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:42,774 - realtime - INFO - [info]📊 Frame 120 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:45,729 - realtime - INFO - [info]📊 Frame 150 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:48,681 - realtime - INFO - [info]📊 Frame 180 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:51,638 - realtime - INFO - [info]📊 Frame 210 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:54,590 - realtime - INFO - [info]📊 Frame 240 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:38:57,541 - realtime - INFO - [info]📊 Frame 270 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:00,498 - realtime - INFO - [info]📊 Frame 300 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:03,449 - realtime - INFO - [info]📊 Frame 330 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 23:39:06,406 - realtime - INFO - [info]📊 Frame 360 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 23:39:09,358 - realtime - INFO - [info]📊 Frame 390 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 23:39:12,313 - realtime - INFO - [info]📊 Frame 420 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:15,266 - realtime - INFO - [info]📊 Frame 450 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 23:39:18,221 - realtime - INFO - [info]📊 Frame 480 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:21,173 - realtime - INFO - [info]📊 Frame 510 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:24,125 - realtime - INFO - [info]📊 Frame 540 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:27,082 - realtime - INFO - [info]📊 Frame 570 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:30,033 - realtime - INFO - [info]📊 Frame 600 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:32,990 - realtime - INFO - [info]📊 Frame 630 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:35,941 - realtime - INFO - [info]📊 Frame 660 | Detections: 2 | FPS: 10.2[/info]
+2025-11-03 23:39:38,898 - realtime - INFO - [info]📊 Frame 690 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:41,849 - realtime - INFO - [info]📊 Frame 720 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:44,806 - realtime - INFO - [info]📊 Frame 750 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:47,757 - realtime - INFO - [info]📊 Frame 780 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:50,709 - realtime - INFO - [info]📊 Frame 810 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:53,666 - realtime - INFO - [info]📊 Frame 840 | Detections: 1 | FPS: 10.2[/info]
+2025-11-03 23:39:54,749 - realtime - INFO - [realtime]📹 Stopping real-time detection...[/realtime]
+2025-11-03 23:39:54,774 - realtime - INFO - [success]✅ Real-time detection stopped[/success]

@@ -1,0 +1,4 @@
+2025-11-04 01:09:49,767 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-04 01:09:50,112 - realtime - ERROR - [error]❌ Failed to load model: [Errno 2] No such file or directory: 'checkpoints/490_model.pt'[/error]
+2025-11-04 01:17:29,309 - realtime - INFO - [realtime]📹 Initializing real-time sign language detection...[/realtime]
+2025-11-04 01:17:29,622 - realtime - ERROR - [error]❌ Failed to load model: [Errno 2] No such file or directory: 'checkpoints/490_model.pt'[/error]
